@@ -7,6 +7,9 @@ tar_glimpse()
 tar_visnetwork()
 tar_outdated()
 
+# Watch pipeline
+tar_watch()
+
 # Run the pipeline
 tar_make()
 
